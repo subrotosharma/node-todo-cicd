@@ -13,5 +13,5 @@ Run these commands:
 
 `node app.js`
 
-*node app.js*
+`*node app.js*`
 
